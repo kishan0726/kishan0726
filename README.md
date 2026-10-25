@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/kishan-shingarakhiya-08812b2b2">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://kishan-shingarakhiya-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -96,7 +96,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-My_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://kishan-shingarakhiya-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
 </a>
 
