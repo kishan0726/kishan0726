@@ -9,10 +9,10 @@
 <a href="https://github.com/kishan0726">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/kishan726">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/kishan-shingarakhiya-08812b2b2">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="YOUR_PORTFOLIO_URL">
@@ -88,11 +88,11 @@
   <img src="https://img.shields.io/badge/GitHub-kishan0726-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/kishan726">
   <img src="https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/kishan-shingarakhiya-08812b2b2">
   <img src="https://img.shields.io/badge/LinkedIn-My_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 
